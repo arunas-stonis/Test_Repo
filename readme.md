@@ -1,1 +1,1 @@
-Just a test repository for testing variuos tools
+Just a test repository for testing various tools
